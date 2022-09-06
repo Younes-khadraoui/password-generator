@@ -1,6 +1,6 @@
 # password-generator 🗝️
 ## Short descreption 😍
-this project is one of the 3 projects i created when i was taking the javaScript course in scrimba . and its basiclly a website that helps to crate random **passwords** that contain 12 characters . i hope u like it 
+This project is one of the 3 projects I created when I was taking the javaScript course at scrimba. It's basically a website that helps create random 15 characters long **passwords**. I hope you enjoy it.
 ## the link to try it 😊
 [password generator](https://secure-passwords.netlify.app/)
 ## preview to the website 😁
